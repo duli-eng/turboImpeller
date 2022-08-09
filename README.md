@@ -1,7 +1,7 @@
 # turboImpeller
 
 ### Description
-This is a render of a [turbocharger impeller/turbine wheel]([https://en.wikipedia.org/wiki/Discrete_Fourier_transform) designed using 
+This is a render of a [turbocharger impeller/turbine wheel](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) designed using 
 Fusion 360 by AutoCAD.
 
 ### Getting started
